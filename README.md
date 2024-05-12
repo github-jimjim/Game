@@ -7,6 +7,12 @@ This is a game from Jimmy Luong. You have to accept the Terms of Use: 9.05.2024
     6. If you delete the pictures, the game won't work.
     7. You can't send this game to someone without the Terms of Use.
 
+Libarys and language:
+    - install python from python.org
+    - datetime - pip install datetime
+    - pygame - pip install pygame
+    
+
 Short Introduction:
     You are the green rectangle and you have to get the red rectangle to get smaller and faster and earn 5 points. Dodge the blue rectangles and you can shoot         them to get 10 Points. Kill the dragon with your laser sothat the fireballs aren't there. If you kill him you get 500 Points.
 
