@@ -11,6 +11,12 @@ Libarys and language:
     - install python from python.org
     - datetime - pip install datetime
     - pygame - pip install pygame
+    - tkinter - pip install tk
+    - PYQT5 - pip install PYQT5
+    - time - pip install time
+    - cryptography - pip install cryptography
+    - screeninfo - pip install screeninfo
+If you can't install them because the commands changed please google it.
     
 
 Short Introduction:
