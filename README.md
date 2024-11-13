@@ -1,4 +1,4 @@
-This is a game from Jimmy Luong. You have to accept the Terms of Use: 9.05.2024
+This is a game from Jimmy Luong. You have to accept the Terms of Use: 9.11.2023
     1. You aren´t allowed to open the program with other programs.
     2. The executable file must not be converted to other files.
     3. You aren´t allowed to modify the file.
