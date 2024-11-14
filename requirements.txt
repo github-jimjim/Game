@@ -1,0 +1,4 @@
+pygame==2.5.0
+cryptography==40.0.1
+PyQt5==5.15.9
+screeninfo==0.9.0
