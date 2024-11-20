@@ -30,6 +30,7 @@ pip install PYQT5
 pip install time  
 pip install cryptography  
 pip install screeninfo  
+```
 
 If you can't install them because the commands changed, please search online for updated installation methods.  
 
